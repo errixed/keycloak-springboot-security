@@ -10,7 +10,7 @@ Spring Boot: v2.7.12
 ### used ports
 `application port: 8080`
 <br/>
-`kerycloak port: 9090`
+`keycloak port: 9090`
 ### changing keycloak port
 ```
 kc.bat start-dev --http-port=9090
