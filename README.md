@@ -1,11 +1,11 @@
 # [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) keycloak-springboot-security
 A sample code that shows how to secure springboot-backend application using keycloak 21.
 ## Built with
-<a href="https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html">JDK<a/>: oracle openJDK v19.0.2
+[JDK](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html): oracle openJDK v19.0.2
 <br/>
-Spring Boot: v2.7.12
+[Spring Boot](https://spring.io/projects/spring-boot): v2.7.12
 <br/>
-<a href="https://github.com/keycloak/keycloak/releases/tag/21.1.1">Keycloak<a/>: v21.1.1
+[Keycloak](https://github.com/keycloak/keycloak/releases/tag/21.1.1): v21.1.1
 ## Setup
 ### used ports
 `application port: 8080`
