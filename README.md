@@ -1,5 +1,16 @@
-# [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) keycloak-springboot-security
-A sample code that shows how to secure springboot-backend application using keycloak 21.
+<div align="center">
+
+ # [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) keycloak-springboot-security
+ A sample code that shows how to secure springboot-backend application using keycloak 21.
+ <br/>
+<br/>
+![GitHub followers](https://img.shields.io/github/followers/errixed)
+![GitHub forks](https://img.shields.io/github/forks/errixed/keycloak-springboot-security)
+![GitHub watchers](https://img.shields.io/github/watchers/errixed/keycloak-springboot-security)
+![GitHub Repo stars](https://img.shields.io/github/stars/errixed/keycloak-springboot-security)
+ 
+</div>
+
 ## Built with
 [JDK](https://www.oracle.com/java/technologies/javase/jdk19-archive-downloads.html): oracle openJDK v19.0.2
 <br/>
