@@ -1,6 +1,7 @@
 <div align="center">
 
- # [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) keycloak-springboot-security
+  [![My Skills](https://skills.thijs.gg/icons?i=java)](https://skills.thijs.gg) 
+  # keycloak-springboot-security
  A sample code that shows how to secure springboot-backend application using keycloak 21.
  <br/>
 <br/>
